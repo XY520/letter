@@ -9,7 +9,7 @@ heart.addEventListener('click',function(){
 
 // 打字效果
 let i =0
-let str = 'When you read this letterIt shows that I care about you very much, more and more. This friendship is like friendship and love，<Although we are just friends, we are more than friends.<Although we are just friends, we are more than friends.<Although you always make me angry, I once said that the reason for sadness is because I care too much, perhaps because I care too much about you<相逢情便深，恨不相逢早。识尽千千万万人，终不似、伊家好'
+let str = '万物皆空'
 let strp = ''
 
 function print()
