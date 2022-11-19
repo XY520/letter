@@ -9,7 +9,7 @@ heart.addEventListener('click',function(){
 
 // 打字效果
 let i =0
-let str = '写信真是一件温柔的事，细腻的小心思就藏在横竖撇捺之中，像是一只温顺的小兽<躲在情意绵绵的字里行间，被火燎封印起来，等着解封的那一刻窜出来，跳进启信人眼底的柔波里。<你一眨眼，<温驯的小鹿有跳动一下，<柔软的暖风有轻拂一下，<遥远的星星有闪烁一下，<我也有心动<却不止一下<H At Tc. Os  At  Nb.'
+let str = 'When you read this letterIt shows that I care about you very much, more and more. This friendship is like friendship and love，<Although we are just friends, we are more than friends.<Although we are just friends, we are more than friends.<Although you always make me angry, I once said that the reason for sadness is because I care too much, perhaps because I care too much about you<相逢情便深，恨不相逢早。识尽千千万万人，终不似、伊家好'
 let strp = ''
 
 function print()
