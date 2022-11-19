@@ -1,7 +1,4 @@
 # letter
-I send it to my best friends.I wish I hope she will like this.
+I send it to my best friends who I Love in the name of a friend.
 
-I will keep this website forever.
-
-This website  will witness our friendship.
-
+I wish her will like it.
