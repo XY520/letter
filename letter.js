@@ -9,7 +9,7 @@ heart.addEventListener('click',function(){
 
 // 打字效果
 let i =0
-let str = '万物皆空'
+let str = '执子之手 与子偕老'
 let strp = ''
 
 function print()
