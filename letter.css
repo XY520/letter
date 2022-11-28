@@ -53,7 +53,7 @@ background-image: linear-gradient(0deg, #d9afd9 0%, #97d9e1 100%);
     transform-origin: left;
 }
 .card::after {
-    content: 'A letter';
+    content: '一封情书';
     right: 0;
     top: 0;
     display: flex;
